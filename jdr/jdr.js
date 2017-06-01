@@ -97,4 +97,4 @@ console.log("Ce combat a fait " + nbMorts + " mort(s).");
 joueur1.combattre(adversaire1);
 joueur2.combattre(adversaire1);
 joueur3.combattre(adversaire1);
-joueur1.combattre(adversaire1);
+
